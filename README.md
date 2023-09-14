@@ -1,3 +1,3 @@
 <div>
-  <img src='https://github.com/FabianHMzz/flairui-cwd/blob/main/assets/landing.PNG?raw=true' alt='FlairUI' />
+  <img src='https://raw.githubusercontent.com/FabianHMzz/flairui-cwd/main/assets/Landing-page.webp' alt='FlairUI' />
 </div>
